@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
-
+""" 4. Define variables
 """
-    This module contains the variables that are defined
-    with specifying their data types
-"""
-
 
 a: int = 1
 pi: float = 3.14
